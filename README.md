@@ -1,5 +1,6 @@
-# curved_nav_bar
+### Curved Navigation Bar
 
-A Flutter project the ready-made curved_navigation_bar library. 
+Flutter project using the [curved_navigation_bar](https://pub.dev/packages/curved_navigation_bar/versions) package.
 
-To get acquainted with it, clone the repository from the main branch.
+```bash
+git clone https://github.com/zhanabilabay/NavigationBar
